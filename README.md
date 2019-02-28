@@ -9,7 +9,7 @@ ybigta 1st project
 
 ### 2주차 팀프로젝트 
 19/2/18 : 모델링 방법 탐색, boosting 모델 활용 CAT boost로 1차 제출하여 확인 \ 
-19/2/20 : boosting 모델 Light GBM, XGBoost 모델 추가 사용 \
+19/2/20 : boosting 모델 Light GBM, XGBoost 모델 추가 사용\
 19/2/21 : 다시 FE 과정 / 파생변수 추가 최종데이터셋 확정 \
 19/2/22 : XGB, Light GBM, CatBoost 합쳐 Stacking 최종 제출데이셋 확정 \
 19/2/23 : 최종 팀 발표 및 대출데이터 팀 중 1등
