@@ -21,9 +21,12 @@ ybigta 1st project
 - 성희 / 파생변수 총괄 FE 책임 
 
 ## 파일 정리
-- 1주차 EDA 파일 
+- 1주차 EDA 파일(application 관련 데이터만)
 - FE 자료는 복잡하게 하다 정리를 못함 / 다른 팀원이 R로 대부분 
 - 2주차 최종 모델링 파일 ( BO, modeling, stacking ... )
 
-
-
+## 개인적인 소감
+- 실제 kaggle 자료를 이용해서 (더러운) 데이터를 처음 만져봐서 당황스럽기도 했음.
+- Boosting 모델도 처음 접해보고 개괄적인 파악만 해서 사용하는데만 집중했기 때문에 이론적인 공부를 더 해야한다고 생각.
+- 따라서, 시간될 때 Bayesian Optimization, XGBoost, Light GBM, CatBoost 논문 리뷰를 해보자.
+- 나머지 공부는 Data Mining 전공 시간에...
